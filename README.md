@@ -1,27 +1,45 @@
-# password-generator
+# Pro-ReadMe
 
-WHEN user clicks "generate password" button
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Last Commit](https://img.shields.io/github/last-commit/lisbethmachado/password-generator)
 
-PROMPT user for password length
-INIT length := user input from prompt
+## Description
 
-IF length IS BETWEEN 8 and 128
-    THEN
-    INIT useSpecial := confirm special characters
-    INIT useNums := confirm numeric characters
-    INIT useLower: = confirm lowercase characters
-    INIT useUpper: = confirm uppercase characters
+This is a random password-generator web application. Create high-security passwords with custom requirements by answering a few simple questions.
 
-IF useSpecial OR useNUMS or useLower or useUpper
+## Table of Contents    
+* [Quick Start](#quick-start)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Screenshots](#screenshots)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)  
 
-// set arrays for specialchar, numeric, lower, upper //
+## Quick Start
+To run this application successfully, first you must run the following script to install dependencies through the terminal: 
+- npm install.
+After the successful installation of the required packages, you will be able to run the following script to start the application in the command line:
+- npm start
+Finally, you may answer the given prompts to create a markdown file template.
 
-random Math
+## Installation
+git clone project
+open in web browser
 
-THEN generate password
+## Usage 
+Start the application in the web browser and begin by answering the alerted questions.
+      
+## Screenshots
 
+## Tests
 
+## License
+Copyright 2020 - present Lisbeth Machado.
+This project is licensed under the terms of the MIT license. 
+More information is available at [opensource.org/licenses](https://opensource.org/licenses/MIT)
 
-END
-ELSE
-    ALERT password length error message
+## Questions
+### Lisbeth Machado
+* :octocat: [Github](http://www.github.com/lisbethmachado).
+* 📧 [E-mail](mailto:lisbeth.webdev@gmail.com)
