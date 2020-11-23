@@ -1,11 +1,11 @@
-# Pro-ReadMe
+# Password Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Last Commit](https://img.shields.io/github/last-commit/lisbethmachado/password-generator)
 
 ## Description
 
-This is a random password-generator web application. Create high-security passwords by answering a few simple questions in the web browser to set custom criteria. I contributed by applying a basic algorithm to sort through the data provided to make random password combinations based on the user's selections.
+This is a random password generator web application. Create high-security passwords by answering a few simple questions in the web browser to set custom criteria. I contributed by applying a basic algorithm to sort through the data provided to make random password combinations based on the user's selections.
 
 ## Table of Contents    
 * [Quick Start](#quick-start)
@@ -31,6 +31,16 @@ Finally, you may answer the given prompts to create a markdown file template.
 Start the application in the web browser and begin by answering the alerted questions.
       
 ## Screenshots
+
+![LandingPG](./assets/landing-pg.png)
+![QSeries1](./assets/q-series-1.png)
+![QSeries2](./assets/q-series-2.png)
+![QSeries3](./assets/q-series-3.png)
+![QSeries4](./assets/q-series-4.png)
+![QSeries5](./assets/q-series-5.png)
+![QSeries6](./assets/q-series-6.png)
+![Password](./assets/password.png)
+
 
 ## License
 Copyright 2020 - present Lisbeth Machado.
