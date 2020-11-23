@@ -16,19 +16,14 @@ This is a random password generator web application. Create high-security passwo
 * [Questions](#questions)  
 
 ## Quick Start
-Open the web application in your web browser and begin by answering the alerted questions. After answering and selecting the desired password criteria, submit all settings and click the button to generate a random password combination meeting al requirered settings.
+Open the web application in your web browser and begin by clicking on the red "Generate Password" button. Answer the alerted questions to set the criteria for the password. After submitting all desired password requirements, a random code combination will render in place of the Password Generator "Your Secure Passowrd" text container.
 
 ## Installation
-git clone project
+To install project locally clone repository.
 
-To run this application successfully, first you must run the following script to install dependencies through the terminal: 
-- npm install.
-After the successful installation of the required packages, you will be able to run the following script to start the application in the command line:
-- npm start
-Finally, you may answer the given prompts to create a markdown file template.
 
 ## Usage 
-Start the application in the web browser and begin by answering the alerted questions.
+Start the application in the web browser and begin by answering the alerted questions. Use this application to create high-security password combinations in an instance.
       
 ## Screenshots
 
@@ -43,7 +38,6 @@ Start the application in the web browser and begin by answering the alerted ques
 
 
 ## License
-Copyright 2020 - present Lisbeth Machado.
 This project is licensed under the terms of the MIT license. 
 More information is available at [opensource.org/licenses](https://opensource.org/licenses/MIT)
 
